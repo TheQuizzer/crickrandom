@@ -1,0 +1,30 @@
+{
+  "name": "crickrandom",
+  "version": "5.9.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheQuizzer/cricket-package.git"
+  },
+  "keywords": [
+    "cricket",
+    "players",
+    "sports",
+    "virat",
+    "kohli"
+  ],
+  "author": "TheQuizzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheQuizzer/cricket-package/issues"
+  },
+  "homepage": "https://github.com/TheQuizzer/cricket-package#readme"
+}
