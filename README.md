@@ -41,8 +41,10 @@ console.log(randomAllRounders);
 
 If you have any questions, feedback, or suggestions, feel free to reach out to me:
 
-- **Name:** The Quizzer
+- **Name:** TheQuizzer
 - **Email:** thequizzer8@gmail.com
-- **Discord:** TheQuizzer#8474
+- **Discord:** [thequizzer8](https://discord.com/invite/9S52muFC86)
+- **Twitter:** [@quizzer_the](https://twitter.com/quizzer_the)
+- **Github:** [TheQuizzer](https://github.com/TheQuizzer)
 
 You can also create an issue on the [GitHub repository](https://github.com/TheQuizzer/crickrandom) for any bug reports or feature requests.
